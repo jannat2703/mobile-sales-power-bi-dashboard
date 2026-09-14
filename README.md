@@ -6,10 +6,10 @@ An interactive two-page Power BI report analyzing mobile sales performance by br
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ### Detailed Analysis
-![Detailed Analysis](images/detailed-analysis.png)
+![Detailed Analysis](detailed-analysis.png)
 
 ## Business Questions
 - Which mobile brand sells the most units?
